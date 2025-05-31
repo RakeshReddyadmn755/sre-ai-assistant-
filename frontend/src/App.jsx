@@ -1,0 +1,1 @@
+<React code from canvas - shortened for readability>
